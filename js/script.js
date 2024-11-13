@@ -26,7 +26,7 @@ if (etàPasseggero < 18) {
 
 // Output prezzo finale
 prezzoBiglietto = prezzoBiglietto.toFixed(2);
-let totale = alert(`Il suo totale è: €${prezzoBiglietto}`)
+alert(`Il suo totale è: €${prezzoBiglietto}`); 
 
 
 
